@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Labios de seda
+
+This log tracks the cryptographic history and versioning for the song **Labios de seda** (labios-de-seda).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T09:02:10.075891 | `v1` | `67f986dfd252b44da9c99f1e40c0278888742d7c2eb8ff534251b3575919ad6e` | `a711078186aed4abaf05faf5ba343872ed00cedf365b88b2ff7a495feec7aaaf` | `2026-06-20_labios-de-seda-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

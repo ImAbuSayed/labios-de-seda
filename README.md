@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-de-seda/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Labios de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-seda/) |
+| **Get License** | [Get a Licensing Quote for Labios de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-seda/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `67f986dfd252b44da9c99f1e40c0278888742d7c2eb8ff534251b3575919ad6e` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
