@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-de-seda/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Labios de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-seda/) |
+| **Get License** | [Commercial Licensing for Labios de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-seda/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Labios de seda, ven a probar
+> Tu piel con la noche me hace flotar
+> Dime que sientes lo mismo al bailar
+> Que este ritmo loco nos va a quemar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
